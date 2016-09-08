@@ -1,0 +1,10 @@
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\CheckIt.Test.dll.config
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\CheckIt.Test.dll
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\CheckIt.Test.pdb
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\WebDriver.dll
+C:\dev\CheckIT_DOTNET\CheckIt.Test\bin\Debug\WebDriver.xml
+C:\dev\CheckIT_DOTNET\CheckIt.Test\obj\Debug\CheckIt.Test.csprojResolveAssemblyReference.cache
+C:\dev\CheckIT_DOTNET\CheckIt.Test\obj\Debug\CheckIt.Test.dll
+C:\dev\CheckIT_DOTNET\CheckIt.Test\obj\Debug\CheckIt.Test.pdb

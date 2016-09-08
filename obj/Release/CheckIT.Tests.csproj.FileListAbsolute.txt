@@ -1,0 +1,1 @@
+C:\dev\CheckIT_DOTNET\obj\Release\CheckIT.Tests.csprojResolveAssemblyReference.cache

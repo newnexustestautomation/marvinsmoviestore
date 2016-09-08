@@ -1,0 +1,28 @@
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\CheckIT.Tests.csprojResolveAssemblyReference.cache
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\CheckIT.Tests.dll.config
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\CheckIT.Tests.dll
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\bin\Debug\CheckIT.Tests.pdb
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\CheckIT.Tests.dll
+c:\users\marvin leito\documents\visual studio 2015\Projects\UnitTestProject1\UnitTestProject1\obj\Debug\CheckIT.Tests.pdb
+C:\dev\CheckIT\bin\Debug\CheckIT.Tests.dll.config
+C:\dev\CheckIT\bin\Debug\CheckIT.Tests.dll
+C:\dev\CheckIT\bin\Debug\CheckIT.Tests.pdb
+C:\dev\CheckIT\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\CheckIT\bin\Debug\TechTalk.SpecFlow.dll
+C:\dev\CheckIT\obj\Debug\CheckIT.Tests.csprojResolveAssemblyReference.cache
+C:\dev\CheckIT\obj\Debug\CheckIT.Tests.dll
+C:\dev\CheckIT\obj\Debug\CheckIT.Tests.pdb
+C:\dev\CheckIT_DOTNET\bin\Debug\CheckIT.Tests.dll.config
+C:\dev\CheckIT_DOTNET\bin\Debug\CheckIT.Tests.dll
+C:\dev\CheckIT_DOTNET\bin\Debug\CheckIT.Tests.pdb
+C:\dev\CheckIT_DOTNET\bin\Debug\Castle.Core.dll
+C:\dev\CheckIT_DOTNET\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\dev\CheckIT_DOTNET\bin\Debug\TestStack.White.dll
+C:\dev\CheckIT_DOTNET\bin\Debug\Castle.Core.xml
+C:\dev\CheckIT_DOTNET\bin\Debug\TestStack.White.pdb
+C:\dev\CheckIT_DOTNET\bin\Debug\TestStack.White.xml
+C:\dev\CheckIT_DOTNET\obj\Debug\CheckIT.Tests.csprojResolveAssemblyReference.cache
+C:\dev\CheckIT_DOTNET\obj\Debug\CheckIT.Tests.dll
+C:\dev\CheckIT_DOTNET\obj\Debug\CheckIT.Tests.pdb

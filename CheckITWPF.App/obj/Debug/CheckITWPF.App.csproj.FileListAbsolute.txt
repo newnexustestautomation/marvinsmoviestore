@@ -1,0 +1,13 @@
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\bin\Debug\CheckITWPF.App.exe.config
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\bin\Debug\CheckITWPF.App.exe
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\bin\Debug\CheckITWPF.App.pdb
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\MainWindow.g.cs
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\App.g.cs
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App_MarkupCompile.cache
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App_MarkupCompile.lref
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\MainWindow.baml
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App.g.resources
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App.Properties.Resources.resources
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App.csproj.GenerateResource.Cache
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App.exe
+C:\dev\CheckIT_DOTNET\CheckITWPF.App\obj\Debug\CheckITWPF.App.pdb
