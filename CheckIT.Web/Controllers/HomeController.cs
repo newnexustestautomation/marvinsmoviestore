@@ -126,7 +126,8 @@ namespace CheckIT.Web.Controllers
         //
 
         // GET: /Home/Delete/5
-        [Authorize(Roles = "ADMIN")]
+        //[Authorize(Roles = "ADMIN")]
+        [Authorize]
         public ActionResult Delete(int id)
 
         {
